@@ -8,3 +8,12 @@ The data is preprocessed to remove all additional text extracted with Apache Tik
 Use this data at your own risk.
 
 The contributors are not liable for any mistake in this data set.
+
+The data includes the following:
+1. District Name for All Bank Branches in Bangladesh.
+2. District Code for All Bank Branches in Bangladesh.
+3. Bank Name for all Bank Branches in Bangladesh.
+4. Bank Code for all Bank Branches in Bangladesh.
+5. Branch Code for all Bank Branches in Bangladesh.
+6. Branch Name for all Bank Branches in Bangladesh.
+7. Branch Routing Number for all Bank Branches in Bangladesh.
